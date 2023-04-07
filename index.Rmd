@@ -1,0 +1,15 @@
+---
+title: "My favourite places!"
+---
+
+This is Mexico
+
+<img src="files/mexico.jpg" style="width:50%">
+
+This is New Zealand
+
+<img src="files/nz.jpg" style="width:50%">
+
+And this is my home, Sydney!
+
+<img src="files/syd.jpg" style="width:50%">

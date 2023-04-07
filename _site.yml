@@ -1,0 +1,12 @@
+name: "fav-places"
+navbar:
+  title: "My Travel"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Page 2"
+      href: second.html
+href: http://github.com/j-desilva/
+output:
+  html_document:
+    theme: cosmo
