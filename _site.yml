@@ -6,7 +6,7 @@ navbar:
       href: index.html
     - text: "Page 2"
       href: second.html
-href: http://github.com/j-desilva/
+href: https://github.com/j-desilva/
 output:
   html_document:
     theme: cosmo
